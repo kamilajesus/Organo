@@ -1,4 +1,4 @@
-# Organo
+# <h1 align="center">Organo</h1>
 
 <h2 align="center"><a href="https://organo-ten-lyart.vercel.app/">Clique para visitar o projeto</a></h2>
 
