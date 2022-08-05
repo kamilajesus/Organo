@@ -2,7 +2,7 @@
 
 <h2 align="center"><a href="https://organo-ten-lyart.vercel.app/">Clique para visitar o projeto</a></h2>
 
-<img src="imgProjeto/organo1.png" alt="captura do site">
+<img src="./imgProjeto/organo1.png" alt="captura do site">
 <img src="imgProjeto/organo2.png" alt="captura do site">
 <img src="imgProjeto/organo3.png" alt="captura do site">
 <img src="imgProjeto/organo4.png" alt="captura do site">
