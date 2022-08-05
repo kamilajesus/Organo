@@ -4,7 +4,7 @@
 
 <img src="./public/imgProjeto/organo1.png" alt="captura do site">
 <img src="./public/imgProjeto/organo2.png" alt="captura do site">
-<img src=".public/imgProjeto/organo3.png" alt="captura do site">
+<img src="./public/imgProjeto/organo3.png" alt="captura do site">
 <img src="./public/imgProjeto/organo4.png" alt="captura do site">
 
 > Organo é um site onde se pode organizar os membros de algum grupo.
